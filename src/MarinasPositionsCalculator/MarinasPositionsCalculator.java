@@ -12,6 +12,9 @@ import java.util.Map;
  */
 public class MarinasPositionsCalculator {
     
+    
+    private int test;
+    
     /**
      * Standard distance between marinas in meters 
      */
